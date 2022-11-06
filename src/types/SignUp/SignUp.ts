@@ -7,7 +7,5 @@ export interface ISignUp {
 }
 
 export interface ISignUpResponse extends IResponse {
-  firstName?: string;
-  lastName?: string;
-  email?: string;
+  userId?: string;
 }
