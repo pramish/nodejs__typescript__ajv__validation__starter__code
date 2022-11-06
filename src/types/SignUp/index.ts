@@ -1,1 +1,1 @@
-export type { ICloudinary, ICloudinaryResponse } from "./SignUp";
+export type { ISignUp, ISignUpResponse } from "./SignUp";
